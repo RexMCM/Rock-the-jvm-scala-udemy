@@ -1,4 +1,4 @@
-# The official repository for the Scala Beginners course on Udemy
+# Repository for the Scala Beginners course on Udemy
 
 this repository contains the code I wrote during Rock the HVM'S Scala beginners course on Udemy.
 
